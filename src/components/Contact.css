@@ -1,0 +1,13 @@
+.contact .card {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact .card h3 {
+    margin-top: 1.5rem;
+}
+
+.contact .card p {
+  font-size: 1.1rem;
+}
